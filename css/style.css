@@ -1,0 +1,81 @@
+.container{
+    color: white;
+    background-color: white;
+
+}
+body{
+    margin: 0 auto;
+    background-color: #6b7b99;
+}
+
+.redes{
+    font-size: 2em;
+    text-align: right;
+    list-style: none;
+
+}
+li{
+font-size: 1em;
+}
+.logo{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.segundo{
+    
+    width: 500px;
+    height: 450px;
+}
+.terceiro{
+    width: 500px;
+    height: 450px;
+}
+.redes{
+    display: inline flex;
+    float: left;
+    list-style: none;
+    float: right;
+    position: inherit;
+   
+}
+.dois{
+    width: 35px;
+    float: right;
+    padding-right: 50%;
+    flex-direction: row;
+    margin-left: 50px;
+    
+}
+.menu{
+    background-color: black;
+    width: 50%;
+    border-bottom: 3px solid rosybrown;
+}
+.menu-2 {
+   display: inline flex;
+   color: white;
+   text-decoration: none;
+   font-size: 15px;
+   margin-left: 150px;
+   list-style: none;
+   
+}
+.tres{
+    margin-left: 30px;
+    width: 50%;
+}
+.menu{
+    width: 100%;
+    float: left;
+}
+.busca{
+    width: 16%;
+    float: right;
+    
+}
+.cal{
+    width: 100%;
+    float: left;
+    position: relative;
+}
