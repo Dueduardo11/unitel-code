@@ -55,7 +55,9 @@ body {
   h1{
     text-align: center;
     color: #050505;
+    
   }
+  
   h2{
 
        width: 100%; 
@@ -92,11 +94,12 @@ body {
     background-color: black;
     width: 100%;
     border-bottom: 2px solid rosybrown;
+    text-align: right;
 }
 .img-2{
     margin-left: 10px;
     width: 2%;
-    text-align: right;
+  
 }
 .add{
     background-color: #4CAF50;
